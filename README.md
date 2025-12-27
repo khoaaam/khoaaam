@@ -5,11 +5,11 @@ I am currently studying computer science and am particularly interested in softw
 
 - 🔭 I'm currently working on: Deepening my knowledge of **Python** and university projects..
 - 🌱 I'm currently learninf: **SQL** and **Rust** (Ownership & Borrowing).
-- 🐧 Betriebssystem: I navigate confidently through the **Linux terminal**.
+- 🐧 Operating System: I navigate confidently through the **Linux terminal**.
 
 ## 🛠 Tech Stack
-- **Sprachen:** Python, Rust (im Aufbau)
+- **Sprachen:** Python, Rust (under construction)
 - **Tools:** Git, GitHub/GitLab, Linux (CLI)
 
 ## 📫 Kontakt
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](HIER_DEIN_LINKEDIN_LINK_REIN)
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/moritz-k-b9b386337/)
