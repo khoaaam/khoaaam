@@ -3,12 +3,12 @@
 ## 🚀 About me
 I am currently studying computer science and am particularly interested in software development. I document my learning progress on GitHub and share projects from my studies.
 
-- 🔭 I'm currently working on: Vertiefung meiner **Python**-Kenntnisse und Uni-Projekten.
+- 🔭 I'm currently working on: Deepening my knowledge of **Python** and university projects..
 - 🌱 I'm currently learninf: **SQL** and **Rust** (Ownership & Borrowing).
-- 🐧 Betriebssystem: Ich navigiere sicher durch das **Linux-Terminal**.
+- 🐧 Betriebssystem: I navigate confidently through the **Linux terminal**.
 
 ## 🛠 Tech Stack
-- **Sprachen:** Python, C (Grundlagen), Rust (im Aufbau)
+- **Sprachen:** Python, Rust (im Aufbau)
 - **Tools:** Git, GitHub/GitLab, Linux (CLI)
 
 ## 📫 Kontakt
