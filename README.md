@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello there 👋 I am Moritz!
 
-<!--
-**khoaaam/khoaaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About me
+I am currently studying computer science and am particularly interested in software development. I document my learning progress on GitHub and share projects from my studies.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on: Vertiefung meiner **Python**-Kenntnisse und Uni-Projekten.
+- 🌱 I'm currently learninf: **SQL** and **Rust** (Ownership & Borrowing).
+- 🐧 Betriebssystem: Ich navigiere sicher durch das **Linux-Terminal**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Sprachen:** Python, C (Grundlagen), Rust (im Aufbau)
+- **Tools:** Git, GitHub/GitLab, Linux (CLI)
+
+## 📫 Kontakt
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](HIER_DEIN_LINKEDIN_LINK_REIN)
