@@ -4,7 +4,7 @@
 I am currently studying computer science and am particularly interested in software development. I document my learning progress on GitHub and share projects from my studies.
 
 - 🔭 I'm currently working on: Deepening my knowledge of **Python** and university projects..
-- 🌱 I'm currently learninf: **SQL** and **Rust** (Ownership & Borrowing).
+- 🌱 I'm currently learning: **SQL** and **Rust** (Ownership & Borrowing).
 - 🐧 Operating System: I navigate confidently through the **Linux terminal**.
 
 ## 🛠 Tech Stack
